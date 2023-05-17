@@ -1,4 +1,4 @@
-# [Your Name]
+# [Gaurav Ail]
 
 ## AI Enthusiast | Machine Learning Engineer
 
@@ -40,8 +40,8 @@ Welcome to my GitHub profile! I am an AI enthusiast with over 3 years of experie
 
 ## Contact Me
 
-- Email: [your-email@example.com](mailto:ail.gaurav10@gmail.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile/)
+- Email: [ail.gaurav10@gmail.com](mailto:ail.gaurav10@gmail.com)
+- LinkedIn: [Gaurav Ail](https://www.linkedin.com/in/gaurav-ail-25612a194/)
 - Twitter: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
 
 Feel free to reach out to me if you have any questions or if you would like to collaborate on an exciting AI project. Let's push the boundaries of artificial intelligence together!

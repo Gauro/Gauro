@@ -1,4 +1,4 @@
-# [Gaurav Ail]
+# Gaurav Ail
 
 ## AI Enthusiast | Machine Learning Engineer
 

@@ -42,6 +42,6 @@ Welcome to my GitHub profile! I am an AI enthusiast with over 3 years of experie
 
 - Email: [ail.gaurav10@gmail.com](mailto:ail.gaurav10@gmail.com)
 - LinkedIn: [Gaurav Ail](https://www.linkedin.com/in/gaurav-ail-25612a194/)
-- Twitter: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
+- Twitter: [@AilGaurav10](https://twitter.com/AilGaurav10)
 
 Feel free to reach out to me if you have any questions or if you would like to collaborate on an exciting AI project. Let's push the boundaries of artificial intelligence together!
